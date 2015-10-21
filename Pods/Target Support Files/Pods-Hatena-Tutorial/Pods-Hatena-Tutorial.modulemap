@@ -1,0 +1,6 @@
+framework module Pods_Hatena_Tutorial {
+  umbrella header "Pods-Hatena-Tutorial-umbrella.h"
+
+  export *
+  module * { export * }
+}
